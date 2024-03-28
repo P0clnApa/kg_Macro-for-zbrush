@@ -1,6 +1,6 @@
 # kg_Macro-for-zbrush
 焦げ餅(@Koge_Mochimochi)の作成したプラグインっぽいマクロセットです。
-V1.0ではZbrushのサブツールのDelete時のフォルダを消し飛ばすことを防ぐ「S-Delete」、板ポリゴンとして画像を読み込む「Quick-image」などを
+V1.0ではZbrushのサブツールのDelete時のフォルダを消し飛ばすことを防ぐ「S-Delete」、板ポリゴンとして画像を読み込む「Quick-image」などを公開します。
 
 #### インストール要件
 Windowsのみ対応です。Mac版で動かす場合はtxt版の内容(RoutineDefのどこか)のフォルダパスを書き換えてあげる必要があります。
