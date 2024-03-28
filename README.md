@@ -9,6 +9,7 @@ Windowsのみ対応です。Mac版で動かす場合はtxt版の内容(RoutineDe
 Kg_Custom_Macro_Data フォルダ　と、Kg_Custom_Macro V1.0.zscの二つを、Zbrushのフォルダ内Zstartup/Zplugs64の中に入れて、Zbrushを再起動してください。
 
 ## ボタン紹介(V1.0)
+![Kg_Custom_Macro_V1 0](https://github.com/P0clnApa/kg_Macro-for-zbrush/assets/17403397/83da87c9-7611-4f88-8c45-c810ed720133)
 
 #### S-Duplicate
 現在のサブツールが閉じたフォルダ内にある場合、フォルダを強制的に開いてからDuplicateをするボタンです。
