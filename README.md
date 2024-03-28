@@ -12,7 +12,9 @@ Kg_Custom_Macro_Data フォルダ　と、Kg_Custom_Macro V1.0.zscの二つを�
 ![Kg_Custom_Macro_V1 0](https://github.com/P0clnApa/kg_Macro-for-zbrush/assets/17403397/83da87c9-7611-4f88-8c45-c810ed720133)
 
 #### S-Duplicate
-現在のサブツールが閉じたフォルダ内にある場合、フォルダを強制的に開いてからDuplicateをするボタンです。
+![S-Duplicate-Capture-HR](https://github.com/P0clnApa/kg_Macro-for-zbrush/assets/17403397/22664a0c-7e1d-496a-9914-cdb80526e0e6)
+
+  現在のサブツールが閉じたフォルダ内にある場合、フォルダを強制的に開いてからDuplicateをするボタンです。
 
 #### S-Delete
 現在のサブツールが閉じたフォルダ内にある場合、フォルダを強制的に開いてからDeleteを押すボタンです。 眠いときに特に事故りがちなので作成。
