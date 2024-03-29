@@ -27,7 +27,9 @@ Kg_Custom_Macro_Data フォルダ　と、Kg_Custom_Macro V1.0.zscの二つを�
 フォルダが閉じてる場合、開きます。
 
 #### Quick-image
-プレーンポリゴンに画像を取り込みます。比率は画像と同じままで取り込まれますが、短辺が 1unitになるようにしています。
+![QuickImage-Rough2_2](https://github.com/P0clnApa/kg_Macro-for-zbrush/assets/17403397/1a384947-4356-4b71-bd9d-fd5902f355cc)
+
+  プレーンポリゴンに画像を取り込みます。比率は画像と同じままで取り込まれますが、短辺が 1unitになるようにしています。
 
 ## 改造について
 
